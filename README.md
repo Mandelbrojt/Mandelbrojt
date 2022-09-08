@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mandelbrojt
-- 👀 I’m interested in Math & Science
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m @Mandelbrojt.
+- 👀 I’m interested in Math & Science.
+- 🌱 I’m currently learning Data Science.
 - 💞️ I’m looking to collaborate on Fintech or Research.
