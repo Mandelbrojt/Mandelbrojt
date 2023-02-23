@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Mandelbrojt.
-- 👀 I’m interested in Math & Science.
-- 🌱 I’m currently learning Data Science.
-- 💞️ I’m looking to collaborate on Fintech or Research.
+- 💞️ I love learning about data science, web development, internet of
+things and entrepreneurship.
+- 👀 I’m looking to collaborate on Fintech or Edtech.
