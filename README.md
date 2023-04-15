@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mandelbrojt.
+- 👋 Hi, I’m Luigi.
 - 💞️ I love learning about data science, web development, internet of
 things and entrepreneurship.
 - 👀 I’m looking to collaborate on Fintech or Edtech.
